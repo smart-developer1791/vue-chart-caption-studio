@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "name": "A little library, a growing audience",
+  "caption": "Monthly visits to our neighborhood reading corner. The spring reading series brought more neighbors through the door.",
+  "unit": "visits",
+  "kind": "bar",
+  "tone": "blue",
+  "rows": [
+    {
+      "id": "point-1",
+      "label": "January",
+      "value": 28
+    },
+    {
+      "id": "point-2",
+      "label": "February",
+      "value": 35
+    },
+    {
+      "id": "point-3",
+      "label": "March",
+      "value": 47
+    },
+    {
+      "id": "point-4",
+      "label": "April",
+      "value": 64
+    },
+    {
+      "id": "point-5",
+      "label": "May",
+      "value": 78
+    },
+    {
+      "id": "point-6",
+      "label": "June",
+      "value": 71
+    }
+  ],
+  "provenance": {
+    "project": "vue-chart-caption-studio",
+    "author": "CodeSculptor",
+    "marker": "CT-6D686A2B"
+  }
+}
